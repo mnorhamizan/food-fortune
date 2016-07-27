@@ -7,4 +7,4 @@ A simple back-end for a fast prototype mobile app that uses Foursquare API for G
 Run `bundle install`.
 
 ## Usage
-Make a POST request to [http://localhost:3000/api] with two string values latitude and longitude.
+Make a POST request to http://localhost:3000/api with two string values latitude and longitude.
